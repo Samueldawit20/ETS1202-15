@@ -1,0 +1,1 @@
+string isspac3() : Checks if a string contains only whitespace characters (spaces, tabs, newlines).Returns True if the string has only spaces, but If the string has any non-space characters, it returns False:
